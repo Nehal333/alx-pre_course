@@ -1,2 +1,3 @@
 touch up_to_date
 mkdir up_to_date
+git pull
