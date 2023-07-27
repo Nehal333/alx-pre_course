@@ -1,1 +1,4 @@
-my first readme
+Nehal Abdelaziz Hassan Omar
+IT Specialist/ full stack developer
+alx software engneering student 
+edited
